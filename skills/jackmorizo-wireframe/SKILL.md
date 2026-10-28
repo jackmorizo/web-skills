@@ -1,5 +1,5 @@
 ---
-name: wireframe
+name: jackmorizo-wireframe
 description: Create low-fidelity wireframe images of UI screens as SVG (light and dark mode), including multi-step interaction storyboards and annotated callouts. Use when asked for a wireframe, mockup sketch, screen layout, or "what happens when I click X".
 ---
 # Wireframes
